@@ -1,6 +1,6 @@
 # cab-nest
 
-Description: A simple Android Uber App Clone using Parse from AWS. You can either be a rider or a driver. As a Rider you can request rides which are shown to drivers. Drivers can view the riders locations and select which rider they would like to pick up. Once selected, navigation is started on their device.
+Description: A simple Android Cab Application that uses Parse from AWS. You can either be a rider or a driver. As a Rider you can request rides which are shown to drivers. Drivers can view the riders locations and select which rider they would like to pick up. Once selected, navigation is started on their device.
 
 Tech Stack: java, Android, Parse from AWS
  
